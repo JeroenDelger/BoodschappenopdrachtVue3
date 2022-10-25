@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Appels",
+        "price": 2.11,
+        "amount": 2
+    },
+
+    {
+        "name": "Peren",
+        "price": 2.50, 
+        "amount": 4
+    },
+
+    {
+        "name": "Krenten",
+        "price": 3.50, 
+        "amount": 1
+    }    
+]
+
