@@ -1,5 +1,5 @@
 import App from '../components/home.vue'
-import AddProduct from '../components/addproduct.vue'
+import AddProduct from '../components/addproduct.vue' // TODO: ongebruikte imports verwijderen
 import ChangeProduct from '../components/changeproduct.vue'
 import ProductPage from '../components/formpage.vue'
 import { ref } from 'vue';
